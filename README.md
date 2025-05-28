@@ -2,7 +2,7 @@
 * 👀💻 **Developer | Designer | Learner**
 * 🔭 I’m currently working on: Web development, UI/UX design, and front-end development.
  <br><br> My expertise includes:
-- Frontend Development: HTML, CSS, Javascript, Bootstrap, React Js, Next.js, Tailwind CSS, Figma, Adobe Xd
+- Frontend Development: HTML, CSS, Javascript, Bootstrap, React js/tsx, Next.js, Tailwind CSS, Figma, Adobe Xd
 - WordPress Development: Elementor, custom CSS/JS integration
 - Design: Website layouts, UI/UX in Figma, branding, Illustrator/Photoshop
   
